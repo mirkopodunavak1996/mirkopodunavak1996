@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👩‍💻 Sobre mí
+🔹 Desarrolladora .NET con perfil full stack, especializada en backend (C# y ASP.NET Core).
+
+🔹 Desarrollo de APIs y aplicaciones web modernas.
+
+🔹 Experiencia en React y bases de datos SQL.
+
+🔹 Enfocada en código limpio, buenas prácticas y calidad de software.
+
