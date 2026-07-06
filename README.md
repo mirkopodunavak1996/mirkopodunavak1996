@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 👩‍💻 About me
 
-🔹 Data analyst with focused on healthcare
+🔹 Data analyst with focus on healthcare
 
 🔹 Use data to deliver high quality insights for a broad range of organizations
 
