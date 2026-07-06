@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩‍💻 Sobre mí
-🔹 Desarrolladora .NET con perfil full stack, especializada en backend (C# y ASP.NET Core).
+👩‍💻 About me
+🔹 Data analyst with focused on healthcare
 
-🔹 Desarrollo de APIs y aplicaciones web modernas.
+🔹 Use data to deliver high quality insights for a broad range of organizations
 
-🔹 Experiencia en React y bases de datos SQL.
+🔹 Experience in public affairs for pharmaceutical companies
 
-🔹 Enfocada en código limpio, buenas prácticas y calidad de software.
+🔹 Focused on clean code, good practices and high quality data projects.
 
